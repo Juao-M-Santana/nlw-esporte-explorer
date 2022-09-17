@@ -5,7 +5,7 @@ Explore
 
 Projeto construído no evento Next Level, da RocketSeat.
 
-[🔗 click aqui para acessar](https://juao-m-santana.github.io/nlw-esporte-explorer/)
+[🔗 click aqui para acessar](https://juao-m-santana.github.io/nlw-esports-explorer//)
 
 ## 🛠 Tecnologia
 
